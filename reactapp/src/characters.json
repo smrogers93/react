@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "Ichigo",
+      "image": "https://vignette.wikia.nocookie.net/bleach/images/5/52/591Ichigo_profile.png/revision/latest?cb=20190129174528&path-prefix=en",
+      "occupation": "Soul Reaper",
+      "location": "Karakura Town"
+    },
+    {
+      "id": 2,
+      "name": "Naruto",
+      "image": "https://i.pinimg.com/originals/9b/fd/0e/9bfd0ece2be8e51791cac7c23db8a259.jpg",
+      "occupation": "Hokage",
+      "location": "Village Hidden in the Leaves"
+    },
+    {
+      "id": 3,
+      "name": "Monkey D. Luffy",
+      "image": "https://66.media.tumblr.com/37bf1375d89aed410658fbedba5d0646/tumblr_osdvvmdSf21w3rqyeo1_250.png",
+      "occupation": "Pirate King",
+      "location": "Foosha Village"
+    },
+    {
+      "id": 4,
+      "name": "Dexter",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
+      "occupation": "Boy Genius",
+      "location": "A Secret Laboratory"
+    },
+    {
+      "id": 5,
+      "name": "Courage",
+      "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
+      "occupation": "A Cowardly Dog",
+      "location": "Nowhere, Kansas"
+    },
+    {
+      "id": 6,
+      "name": "Doug Funnie",
+      "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
+      "occupation": "Student",
+      "location": "Bluffington"
+    },
+    {
+      "id": 7,
+      "name": "Bugs Bunny",
+      "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
+      "occupation": "Looney Toon",
+      "location": "A Rabbit Burrow"
+    },
+    {
+      "id": 8,
+      "name": "Johnny Bravo",
+      "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
+      "occupation": "Ladies Man",
+      "location": "Aron City"
+    },
+    {
+      "id": 9,
+      "name": "Tommy Pickles",
+      "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641",
+      "occupation": "Adventurer",
+      "location": "California"
+    },
+    {
+      "id": 10,
+      "name": "Rocko",
+      "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416",
+      "occupation": "Cashier",
+      "location": "O-Town, California"
+    },
+    {
+      "id": 11,
+      "name": "Captain Planet",
+      "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836",
+      "occupation": "Superhero",
+      "location": "Earth"
+    },
+    {
+      "id": 12,
+      "name": "Ickis",
+      "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png",
+      "occupation": "Ahhhh! A Real Monster!",
+      "location": "Under a City Dump"
+    }
+  ]
+  
